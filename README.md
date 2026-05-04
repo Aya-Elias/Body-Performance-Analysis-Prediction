@@ -30,5 +30,5 @@ The project explores multiple algorithms to compare performance[cite: 1, 10]:
 3. Ensure the `.csv` files are in the same directory as the notebooks to allow proper data loading[cite: 10].
 
 ## 👩‍💻 Author
-**Aya Elias**[cite: 1]
-*Junior Data Analyst | Data Science Student*
+**Aya Elias**
+*Junior Data Analyst | AI strategist*
